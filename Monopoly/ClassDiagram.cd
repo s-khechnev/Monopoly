@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Monopoly.FieldCell" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAQAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.StartCell" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.TaxCell" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.BuyableCell" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAARAEAAAABAAAIAAAAAAAAAAAAQABAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.266" />
+  </Class>
+  <Class Name="Monopoly.RailwayStation" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Street" Collapsed="true">
+    <Position X="16.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAABAAAAAABAAAIAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.HouseDecorator" Collapsed="true">
+    <Position X="16.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.FirstHouse" Collapsed="true">
+    <Position X="17.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAABAAEAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.SecondHouse" Collapsed="true">
+    <Position X="20" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAABAAEAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.ThirdHouse" Collapsed="true">
+    <Position X="13.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAABAAEAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Hotel" Collapsed="true">
+    <Position X="15.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAABAAEAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.GameManager" Collapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQSEAAIAEBAAQAIAICgAAQAAAgAQCBoAAAAAAAAAI=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.MessageService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Monopoly.Player" Collapsed="true">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIJAAAgAIABgAAAAAAQAQAAAAQAIAAACAQAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Program" Collapsed="true">
+    <Position X="24.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Monopoly.PropertyFamily" Collapsed="true">
+    <Position X="22.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAIhAAABAABAAAAAAAAAAAAEAAADAAAAA=</HashCode>
+      <FileName>FieldCell.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
